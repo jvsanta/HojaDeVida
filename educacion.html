@@ -23,6 +23,64 @@
           <li><a href="experiencia.html">Experiencia</a></li>
         </ul>
       </nav>
+    <h2>Educación</h2>
+    <table border="2">
+      <tr>
+        <th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>¿Culminó?</th>
+      </tr>
+      <tr>
+        <th>2003</th>
+        <th>Secundaria Comercial</th>
+        <th>Río Tercero</th>
+        <th>Sí</th>
+      </tr>
+      <tr>
+        <th>2009</th>
+        <th>Blas Pascal</th>
+        <th>Córdoba</th>
+        <th>Sí</th>
+       </tr>
+       <tr>
+         <th>2012</th>
+         <th>Universidad Siglo 21</th>
+         <th>Córdoba</th>
+         <th>Sí</th>
+       </tr>
+      </table>
+    <h1>Agregar estudios</h1>
+    <form action="">
+      <p>
+        <label for="año"> <strong> Año:</strong> </label>
+        <select name="año">
+          <option value="1">2010</option>
+          <option value="1">2011</option>
+          <option value="1">2012</option>
+          <option value="1">2013</option>
+          <option value="1">2014</option>
+          <option value="1">2015</option>
+          <option value="1">2016</option>
+        </select>
+      </p>
+      <p>
+        <label for="institucion"> <strong>Institución: </strong> </label>
+      	<input type="text" name="institucion" autofocus required>
+      </p>
+      <p>
+        <label for="lugar"> <strong>Lugar: </strong></label>
+        <textarea name="lugar" id="" cols="30" rows="3" required></textarea>
+      </p>
+      <p>
+      	<label for="culmino"><strong>Culminó?: </strong> </label>
+      	<input type="radio" name="culmino" required> Si
+      	<input type="radio" name="culmino" required> No
+      </p>
+      <p>
+        <input type="submit" value="Enviar">
+      </p>
+    </form>
   </section>
 </body>
 <br>
