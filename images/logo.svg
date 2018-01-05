@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <radialGradient gradientTransform="translate(0,0.4119523640336661) scale(1,0.15632155845905182)" r="0.47143" cy="0.488281" cx="0.518229" spreadMethod="reflect" id="svg_10">
+   <stop offset="0" stop-color="#ff00ff"/>
+   <stop offset="0.979167" stop-color="#00ff00"/>
+  </radialGradient>
+  <radialGradient gradientTransform="translate(0,0.3597702552532328) scale(1,0.2804594894935344)" cy="0.5" cx="0.5" r="0.47143" spreadMethod="reflect" id="svg_11">
+   <stop offset="0" stop-color="#bf005f"/>
+   <stop offset="1" stop-color="#40ffa0"/>
+  </radialGradient>
+  <radialGradient r="0.107109" gradientTransform="rotate(-1.0344575026939684,0.5,0.5) translate(0,0.42873577249461203) scale(1,0.14252845501077593)" spreadMethod="repeat" id="svg_17">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#4f0863"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#0000ff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path transform="translate(4, 6)" id="svg_6" d="m136.723816,60.329895c25.277679,0 45.787445,21.614212 45.787445,48.231377c0,26.617012 -20.509766,48.209557 -45.787445,48.209557c-25.277618,0 -45.783875,21.614532 -45.783875,48.231323c0,26.617035 20.506256,48.209534 45.783875,48.209534c50.554871,0 91.590973,-43.206985 91.590973,-96.440857c0,-53.233948 -41.036102,-96.440933 -91.590973,-96.440933zm0,33.158234c-7.900848,0 -14.311462,6.751167 -14.311462,15.073143c0,8.321831 6.410614,15.0709 14.311462,15.0709c7.90509,0 14.314392,-6.749069 14.314392,-15.0709c0,-8.321976 -6.409302,-15.073143 -14.314392,-15.073143zm0,96.440765c7.901398,0 14.314392,6.755295 14.314392,15.073257c0,8.317627 -6.412994,15.071152 -14.314392,15.071152c-7.896942,0 -14.311462,-6.753525 -14.311462,-15.071152c0,-8.317963 6.41452,-15.073257 14.311462,-15.073257zm89.534119,-33.096848c0,53.194229 -40.952026,96.316071 -91.470001,96.316071c-50.517944,0 -91.469879,-43.121841 -91.469879,-96.316071c0,-53.194214 40.951935,-96.315842 91.469879,-96.315842c50.517975,0 91.470001,43.121628 91.470001,96.315842z" opacity="0.6" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="url(#svg_10)" fill="url(#svg_11)"/>
+  <text style="cursor: move;" font-style="italic" font-weight="bold" transform="translate(-220, -1) translate(213, 4) matrix(3.08977, 0, 0, 2.48479, -165.779, -156.787)" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" id="svg_12" y="127" x="84" opacity="0.6" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#840284" fill="url(#svg_17)">J</text>
+  <text id="svg_18" style="cursor: move;" font-style="italic" font-weight="bold" transform="translate(-132, -52) translate(229.895, 98.1598) translate(-220, -1) translate(213, 4) matrix(3.08977, 0, 0, 2.48479, -165.779, -156.787)" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="24" y="127" x="84" opacity="0.6" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#840284" fill="url(#svg_17)">S</text>
+ </g>
+</svg>
